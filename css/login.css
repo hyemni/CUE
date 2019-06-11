@@ -1,11 +1,16 @@
-.userlogin{
+.user{
   border-right-color: #ffffff;
   border-right-style: solid;
   border-right-width: 1px;
 }
 
+.userlogin{
+  float: right;
+}
+
 form{
   margin: 0;
+  /*float: left;*/
 }
 
 .id, .password, .log_in{
@@ -54,9 +59,10 @@ p{
 }
 
 
-.social{
+.naver{
   border: none;
   width: 18em;
   margin: 0.8em;
   padding: 1em;
 }
+
