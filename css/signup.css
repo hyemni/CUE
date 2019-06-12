@@ -1,0 +1,42 @@
+p{
+  text-align: center;
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.title{
+  margin: 5em;
+}
+
+.container{
+  font-size: 15px;
+  color: #ffffff;
+  margin: auto;
+}
+
+.name, .email, .password, .retype_pass, .phone{
+  margin: 5px;
+  border: none;
+  /*padding-top: 5px;*/
+  /*padding-bottom: 5px;*/
+  font-size: 13px;
+  border-radius: 3px;
+  width: 500px;
+  padding: 10px;
+
+}
+
+.favorite input{
+  margin: 10px;
+}
+
+label{
+  text-align: right;
+  line-height: 45px;
+}
+
+.form-group{
+  left: auto;
+  right: auto;
+}
